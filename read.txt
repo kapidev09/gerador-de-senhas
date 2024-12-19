@@ -1,0 +1,1 @@
+isto é mais um projeto simples de c++ dessa vez eu vou estar fazendo um gerador de senha com c++.
